@@ -87,4 +87,5 @@ However, raw classification tables are often non-interactive and difficult to in
 ## 🙋‍♀️ Author
 
 **Mansi Singh**  
-Connect with me on [LinkedIn]linkedin.com/in/mansi-singh-13684b261
+Connect with me on [LinkedIn].linkedin.com/in/mansi-singh-13684b261
+
