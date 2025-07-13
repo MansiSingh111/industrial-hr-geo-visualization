@@ -49,17 +49,6 @@ However, raw classification tables are often non-interactive and difficult to in
 │       └── interactive_treemap.html
 ```
 
----
-
-## 📊 Sample Visuals
-
-### 🔹 Total Workers by Industry
-![Industry Chart](data/eda_charts/industry_worker_distribution.png)
-
-### 🔹 Main vs Marginal Workers
-![Main vs Marginal](data/eda_charts/main_vs_marginal_workers.png)
-
----
 
 ## 🚀 How to Run the Project
 
